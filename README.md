@@ -16,8 +16,8 @@ Classificador de imagens de humano ou cavalo
 
 ## Objetivo / descrição do Projeto
 
-Dentre as diversas áreas de atuação e aplicações possíveis, as redes CNN são muitoutilizadas em tarefas de classificação de imagens.
-Implementamos um Classificador de imagens de humano ou cavalo. Treinado com um dataset disponibilizado pelo Tensorflow
+Dentre as diversas áreas de atuação e aplicações possíveis, as redes CNN são muito utilizadas em tarefas de classificação de imagens.
+Implementamos um Classificador de imagens de humano ou cavalo, treinado nosso modelo com um dataset disponibilizado pelo Tensorflow
 
 ## Dataset utilizado
 
