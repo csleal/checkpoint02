@@ -19,9 +19,13 @@ Classificador de imagens de humano ou cavalo
 Dentre as diversas áreas de atuação e aplicações possíveis, as redes CNN são muitoutilizadas em tarefas de classificação de imagens.
 Implementamos um Classificador de imagens de humano ou cavalo. Treinado com um dataset disponibilizado pelo Tensorflow
 
+## Dataset utilizado
+
+<img src="/imagem.png">
+
 ## Imagem do projeto
 
-<img src="/imagem.jpg" width="550">
+<img src="/imagem2.png">
 
 * [Dataset](https://www.tensorflow.org/datasets/catalog/horses_or_humans)
 
