@@ -1,58 +1,27 @@
 # checkpoint02
 Classificador de imagens de humano ou cavalo
 
-# Template para desenvolvimento e entrega de NAC
-
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
 # Humano ou Cavalo?
 
 **nome dos alunos:** 
 
-**Turma:**
+* Carlos Alberto Mascarenhas Ferreira - RM 87204 
+* Carlos Rithyellen de Souza Leal - RM 89052
+* Rafael Felipe Zamignani - RM 87469
+* Renan da Silva Ramos – RM 89339
 
-**Ano:**
+**Turma:** 2TDSA
+
+**Ano:** 2° ano, 2022
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Dentre as diversas áreas de atuação e aplicações possíveis, as redes CNN são muitoutilizadas em tarefas de classificação de imagens.
+Implementamos um Classificador de imagens de humano ou cavalo. Treinado com um dataset disponibilizado pelo Tensorflow
 
-## Diagrama do projeto
-
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+## Imagem do projeto
 
 <img src="/imagem.jpg" width="550">
 
+* [Dataset](https://www.tensorflow.org/datasets/catalog/horses_or_humans)
 
-## Como usar 
-
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
-
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
-
-## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
-
-
-### Referências 
-
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
